@@ -19,4 +19,4 @@ Table and barplot:
 table(Poinsettias$color)
 barplot(table(Poinsettias$color), xlab="Color", main="Poinsettia Colors")
 ```
-
+Hello
